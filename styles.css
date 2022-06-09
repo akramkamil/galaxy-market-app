@@ -1,0 +1,39 @@
+.list a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#ma {
+    font-size: 25px;
+    color: darkred;
+    margin-top: 5px;
+}
+
+.cat {
+    list-style-type: none;
+    position: fixed;
+}
+.cat li {
+    margin: 10px;
+    font-weight: bolder;
+}
+
+.cat a{
+    color: black;
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+}
+
+.awusome {
+    list-style-type: none;
+}
+
+.awusome i {
+    color: black;
+    font-size: 35px;
+
+}
+
